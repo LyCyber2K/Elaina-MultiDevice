@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  Bochilgaming 🔭
-// Ditulis Ulang Oleh ImYanXiao
+// Ditulis Ulang Oleh LyCyber
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -47,16 +47,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sig = '_' //Link Instagrammu
+global.sgh = 'https://github.com/LyCyber2K ' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '083191349376' //Nomor Danamu
+global.ppulsa = '083191349376' //Nomor SimCard Yang Kamu Pake
+global.'_' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281231079387' //Nomor Bot
@@ -67,7 +67,7 @@ global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+[083191349376 '❦ LyCyber 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -87,7 +87,7 @@ global.APIs = { // API Prefix
   adiisus: 'https://adiixyzapi.herokuapp.com',
   violetics : 'https://violetics.pw', 
   males : 'https://malesin.xyz'
-}
+
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'APIKEYMU',
